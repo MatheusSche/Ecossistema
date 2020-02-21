@@ -26,3 +26,7 @@ A cada rodada os indivíduos perdem uma quantidade de calorias estabelecida. </b
 Ao iniciar a simulação, também é iniciado um Timer e um contador de indivíduos no sistema.
 Cada indivíduo é representado por uma thread, assim como o timer.
 Foram utilizados semáforos para a sincronização das threads.
+
+<h3>Simulação</h3>
+
+<img src="ecothread.gif">
