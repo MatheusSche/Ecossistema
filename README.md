@@ -1,14 +1,12 @@
+# Markdown
 # Ecossistema
-
-# Ecossistema
-
 <h3>Tecnologias e Bibliotecas</h3>
 
 -[x] Python
 
 <h4>Bibliotecas</h4>
 
-# Markdown
+
 
 -[x] TKinter (interface gráfica). 
 -[x] threading. 
