@@ -17,6 +17,8 @@ O sistema simula um pequeno ecossistema, com tubarões, focas, peixes e algas, o
 Quando um predador que está acima na cadeia alimentar encontra um de menor posição, o mesmo o devora e consome suas calorais. </br>
 A cada rodada os indivíduos perdem uma quantidade de calorias estabelecida. </br>
 
+</br>
+
 -[x] Tubarão devora focas e peixes. </br>
 -[x] Foca devora peixes. </br>
 -[x] Peixe come algas. </br>
